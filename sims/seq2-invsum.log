@@ -1,0 +1,67 @@
+Circuit: * C:\Users\byron.jacquot\Documents\GitHub\Sparkpunk_Sequencer\sims\seq2-invsum.asc
+
+WARNING: Less than two connections to node N022.  This node is used by R:U1:OUT59:OUT.
+WARNING: Less than two connections to node U5:DP.  This node is used by A:U5:DDEL.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+Gmin = 2.5711e-006
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 2.5711e-006
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point.
+Ignoring empty pin current: Ix(u1:vdd)
+Ignoring empty pin current: Ix(u5:vdd)
+Ignoring empty pin current: Ix(u1:vdd)
+Ignoring empty pin current: Ix(u5:vdd)
+Heightened Def Con from 1.23863 to 1.23863
+Heightened Def Con from 6.07625 to 6.07625
+Heightened Def Con from 9.23864 to 9.23864
+Heightened Def Con from 9.93658 to 9.93658
+
+Date: Fri Jan 03 16:48:16 2014
+Total elapsed time: 9.289 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 108094
+traniter = 96827
+tranpoints = 27180
+accept = 20576
+rejected = 6930
+matrix size = 205
+fillins = 62
+solver = Normal
+Thread vector: 47.2/23.2[4] 12.1/5.3[4] 9.6/4.5[4] 1.7/7.8[1]  2592/500
+Matrix Compiler1: 10.6 KB object code size  6.0/4.8/[2.0]
+Matrix Compiler2: 14.6 KB object code size  4.2/6.4/[2.2]
+
+

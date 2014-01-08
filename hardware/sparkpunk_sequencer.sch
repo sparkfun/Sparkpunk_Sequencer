@@ -27918,7 +27918,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <attribute name="PROD_ID" value="RES-09435"/>
 </part>
 <part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF-50V-20%(PTH)" device="KIT-EZ" value=".1"/>
+<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF-50V-20%(PTH)" device="KIT-EZ" value=".1uf"/>
 <part name="R6" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="2.2k">
 <attribute name="PROD_ID" value="RES-10691"/>
 </part>
@@ -28374,8 +28374,8 @@ each combined using a diode-or circuit.</text>
 <instance part="R2" gate="G$1" x="50.8" y="228.6" rot="R90">
 <attribute name="PROD_ID" x="50.8" y="228.6" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
-<instance part="R4" gate="G$1" x="22.86" y="226.06" rot="R90">
-<attribute name="PROD_ID" x="22.86" y="226.06" size="1.778" layer="96" rot="R90" display="off"/>
+<instance part="R4" gate="G$1" x="25.4" y="226.06" rot="R90">
+<attribute name="PROD_ID" x="25.4" y="226.06" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="SUPPLY6" gate="1" x="35.56" y="261.62"/>
 <instance part="C1" gate="G$1" x="15.24" y="223.52"/>
@@ -29074,13 +29074,13 @@ each combined using a diode-or circuit.</text>
 <junction x="43.18" y="220.98"/>
 <pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="218.44" x2="43.18" y2="215.9" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="220.98" x2="22.86" y2="218.44" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="218.44" x2="43.18" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="220.98" x2="25.4" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="218.44" x2="43.18" y2="218.44" width="0.1524" layer="91"/>
 <junction x="43.18" y="218.44"/>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="22.86" y1="218.44" x2="15.24" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="218.44" x2="15.24" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="218.44" x2="15.24" y2="220.98" width="0.1524" layer="91"/>
-<junction x="22.86" y="218.44"/>
+<junction x="25.4" y="218.44"/>
 <pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="7.62" y1="220.98" x2="7.62" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="218.44" x2="15.24" y2="218.44" width="0.1524" layer="91"/>
@@ -29445,18 +29445,18 @@ each combined using a diode-or circuit.</text>
 <net name="BTN-OUT" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="15.24" y1="233.68" x2="22.86" y2="233.68" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="233.68" x2="22.86" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="233.68" x2="25.4" y2="233.68" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="233.68" x2="25.4" y2="231.14" width="0.1524" layer="91"/>
 <pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="15.24" y1="228.6" x2="15.24" y2="233.68" width="0.1524" layer="91"/>
 <junction x="15.24" y="233.68"/>
 <pinref part="S3" gate="G$1" pin="2"/>
 <wire x1="15.24" y1="256.54" x2="20.32" y2="256.54" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="256.54" x2="15.24" y2="233.68" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="233.68" x2="22.86" y2="243.84" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="233.68" x2="25.4" y2="243.84" width="0.1524" layer="91"/>
 <pinref part="SJ4" gate="1" pin="1"/>
-<wire x1="22.86" y1="243.84" x2="30.48" y2="243.84" width="0.1524" layer="91"/>
-<junction x="22.86" y="233.68"/>
+<wire x1="25.4" y1="243.84" x2="30.48" y2="243.84" width="0.1524" layer="91"/>
+<junction x="25.4" y="233.68"/>
 </segment>
 </net>
 <net name="LASTSTEP" class="0">

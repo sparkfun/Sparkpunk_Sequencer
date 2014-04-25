@@ -1,0 +1,56 @@
+Qty	Ref Des	Lib	Pkg	Val	Prod ID	Distributor	Dist. ID	Desc1	Desc2	Cost
+1	IC5	SparkFun-DigitalIC	DIL14-KIT	CD4013B	IC-11896			IC CD4013BE (PTH)	IC D-TYPE POS TRG DUAL 14DIP	0.38520
+21	D100, D200, D300, D400, D500, D600, D700, D800, D900, D1000, D101, D201, D301, D401, D501, D1001, D901, D801, D601, D701, D3	SparkFun-DiscreteSemi	DIODE-1N4001-KIT	1N5819	DIO-11895			DIODE SCHOTTKY 1N5819 (PTH)	DIODE SCHOTTKY 40V 1A DO41	0.02500
+1	FRAME1	SparkFun-Aesthetics	CREATIVE_COMMONS					 	 	 
+30	GND1, GND2, GND3, GND4, GND5, GND6, GND7, GND10, GND11, GND12, GND14, GND15, GND16, GND17, GND18, GND19, GND20, GND21, GND22, GND23, GND24, GND8, GND9, GND25, GND26, GND13, GND27, GND28, GND29, GND30	SparkFun-Aesthetics						 	 	 
+5	STANDOFF1, STANDOFF2, STANDOFF3, STANDOFF5, STANDOFF6	SparkFun-Electromechanical	STAND-OFF					 	 	 
+23	SUPPLY1, SUPPLY2, SUPPLY3, SUPPLY4, SUPPLY5, SUPPLY6, SUPPLY7, SUPPLY8, SUPPLY9, SUPPLY10, SUPPLY11, SUPPLY12, SUPPLY13, SUPPLY14, SUPPLY15, SUPPLY16, SUPPLY17, SUPPLY18, SUPPLY19, SUPPLY20, SUPPLY21, SUPPLY22, SUPPLY23	SparkFun-Aesthetics						 	 	 
+1	LOGO3	SparkFun-Aesthetics	SPARKPUNK_LOGO_.1					 	 	 
+1	LOGO1	SparkFun-Aesthetics	SPARKPUNK_LOGO_.2					 	 	 
+1	LOGO4	SparkFun-Aesthetics	SFE_LOGO_NAME_FLAME_.4	SFE_LOGO_NAME_FLAME.4_INCH				 	 	 
+1	JP200	SparkFun-Connectors	1X02_NO_SILK	STEP2				 	 	 
+1	JP300	SparkFun-Connectors	1X02_NO_SILK	STEP3				 	 	 
+1	JP400	SparkFun-Connectors	1X02_NO_SILK	STEP4				 	 	 
+1	JP500	SparkFun-Connectors	1X02_NO_SILK	STEP5				 	 	 
+1	JP700	SparkFun-Connectors	1X02_NO_SILK	STEP7				 	 	 
+1	JP800	SparkFun-Connectors	1X02_NO_SILK	STEP8				 	 	 
+1	JP900	SparkFun-Connectors	1X02_NO_SILK	STEP9				 	 	 
+1	JP1000	SparkFun-Connectors	1X02_NO_SILK	STEP10				 	 	 
+1	JP600	SparkFun-Connectors	1X02_NO_SILK	STEP6				 	 	 
+10	VR100, VR200, VR300, VR400, VR500, VR600, VR700, VR800, VR900, VR1000	SparkFun-Electromechanical	SLIDER-MEDIUM-KIT	10K	RES-11931			Slide Pot - Medium (10k Linear Taper) (PTH)	  	0.15000
+11	LED100, LED200, LED300, LED400, LED500, LED600, LED700, LED800, LED900, LED1000, LED1	SparkFun-LED	LED5MM-KIT	RED	DIO-09529			Basic LED -  5mm Red (PTH)	  	0.01903
+2	RV1, RV2	SparkFun-Electromechanical	ALPS_POT_KIT	10k	RES-09177			Trimpot Tall 10k (PTH)	POT 10K OHM 9MM VERT NO BUSHING Square - 0.453	0.07920
+12	R100, R6, R200, R300, R400, R500, R600, R700, R800, R900, R1000, R19	SparkFun-Resistors	AXIAL-0.3EZ	2.2k	RES-10691			Resistor 2.2k Ohm - 1/4W - 5% (PTH)	  	0.02880
+6	R2, R16, R3, R14, R27, R28	SparkFun-Resistors	AXIAL-0.3EZ	100k	RES-10686			Resistor 100k Ohm - 1/4W - 5% (PTH)	  	0.02880
+7	R4, R7, R21, R23, R24, R25, R12	SparkFun-Resistors	AXIAL-0.3EZ	10k	RES-09435			Resistor 10k Ohm - 1/4W  5% (PTH)	  	0.00523
+3	R13, R20, R5	SparkFun-Resistors	AXIAL-0.3EZ	47k	RES-10687			Resistor 47k Ohm - 1/4W - 5% (PTH)	  	0.02880
+1	R15	SparkFun-Resistors	AXIAL-0.3EZ	47	RES-10697			Resistor 47 Ohm - 1/4W - 5% (PTH)	  	0.02880
+3	R17, R18, R30	SparkFun-Resistors	AXIAL-0.3EZ	22k	RES-10688			Resistor 22k Ohm - 1/4W - 5% (PTH)	used in strips of 25 for resistor kit	0.00000
+1	R1	SparkFun-Resistors	AXIAL-0.3EZ	470	RES-10693			Resistor 470 Ohm - 1/4W - 5% (PTH)	used in strips of 25 for resistor kit	0.00495
+4	R22, R9, R10, R26	SparkFun-Resistors	AXIAL-0.3EZ	1k	RES-09435			Resistor 10k Ohm - 1/4W  5% (PTH)	  	0.00523
+1	R29	SparkFun-Resistors	AXIAL-0.3EZ	33k	RES-10687			Resistor 47k Ohm - 1/4W - 5% (PTH)	  	0.02880
+1	S3	SparkFun-Electromechanical	TACTILE-PTH-LED-12MM-EZ	Play Button	SWCH-11758			LED Tactile Button - Red (PTH)	  	0.48000
+4	C2, C3, C4, C9	SparkFun-Capacitors	CPOL-RADIAL-10UF-25V-KIT	10uf	CAP-08440			Cap 10uF - 25V - 20% (PTH)	0.197	0.03033
+1	C10	SparkFun-Capacitors	CAP-PTH-SMALL-KIT	1nf	CAP-09182			Cap 1nF - 100V - 5% (PTH)	  	0.08100
+1	IC6	SparkFun-DigitalIC	DIL16-KIT	CD4017		Digikey	296-2037-5-ND	 	 	 
+2	D1, D2	SparkFun-DiscreteSemi	DIODE-1N4148-KIT	1n4148	DIO-08378			Diode 1N4148 (PTH)	DIODE SW HS 100V 200MA DO-35	0.00743
+3	IC3, IC4, IC2	SparkFun-AnalogIC	DIP08-KIT	LM358	IC-09172			IC LM358 (PTH)	IC OP AMP LOW PWR DUAL 8-DIP	0.13500
+1	IC1	SparkFun-AnalogIC	DIP08-KIT	7555		digikey	ICM7555IPAZ-ND	 	 	 
+12	S100, S5, S200, S300, S400, S500, S600, S700, S800, S900, S1000, S1	SparkFun-Electromechanical	SWITCH-SPDT_KIT	SPDT	SWCH-08261			Mini Power Switch - Black (PTH)	  	0.12938
+5	C1, C5, C6, C7, C8	SparkFun-Capacitors	CAP-PTH-SMALL-KIT	.1uf	CAP-08370			Cap 0.1uF - 50V - 20% (PTH)	  	0.04300
+1	BAT1	SparkFun-Connectors	BC9VPC_KIT	9V				 	 	 
+1	LOGO2	SparkFun-Aesthetics	OSHW-LOGO-M					 	 	 
+1	SJ5	SparkFun-Passives	SJ_2S-PTH	ONE-SHOT-N.O.				 	 	 
+1	JP1	SparkFun-Connectors	1X01NS	GATE				 	 	 
+1	JP2	SparkFun-Connectors	1X01NS	CV1				 	 	 
+1	JP100	SparkFun-Connectors	1X01NS	STEP1				 	 	 
+1	JP3	SparkFun-Connectors	1X01NS	TEMPO_CV				 	 	 
+1	JP4	SparkFun-Connectors	1X01NS	CV2				 	 	 
+1	JP5	SparkFun-Connectors	1X01NS	CV				 	 	 
+1	JP6	SparkFun-Connectors	1X01NS	VCC				 	 	 
+1	JP7	SparkFun-Connectors	1X01NS	GND				 	 	 
+10	Q100, Q200, Q300, Q400, Q500, Q600, Q700, Q800, Q900, Q1000	SparkFun-DiscreteSemi	TO-92-AMMO	2N3904	TRANS-08447			Transistor NPN 2N3904 (PTH)	2N Series 40 V 200 mA Through Hole NPN Silicon General Purpose Transistor TO-92	0.01680
+1	SJ1	SparkFun-Passives	SJ_2S-TRACE-PTH	RUN-N.C.				 	 	 
+1	SJ2	SparkFun-Passives	SJ_2S-TRACE-PTH	STOP-N.C.				 	 	 
+1	SJ3	SparkFun-Passives	SJ_2S-TRACE-PTH	CLK-N.C.				 	 	 
+1	SJ4	SparkFun-Passives	SJ_2S-TRACE-PTH	BTN-N.C.				 	 	 

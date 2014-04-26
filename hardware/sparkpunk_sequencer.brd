@@ -7382,7 +7382,7 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="IC-09172" x="63.5" y="80.01" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="IC5" library="SparkFun-DigitalIC" package="DIL14-KIT" value="CD4013B" x="41.91" y="13.97" rot="R270">
-<attribute name="PROD_ID" value="IC-11896" x="41.91" y="13.97" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="IC-11930" x="41.91" y="13.97" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D100" library="SparkFun-DiscreteSemi" package="DIODE-1N4001-KIT" value="1N5819" x="81.28" y="13.97" rot="R270">
 <attribute name="PROD_ID" value="DIO-11895" x="81.28" y="13.97" size="1.778" layer="27" rot="R270" display="off"/>
@@ -7680,7 +7680,9 @@ design rules under a new name.</description>
 <attribute name="DIST" value="Digikey" x="69.85" y="21.59" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DIST_ID" value="296-2037-5-ND" x="69.85" y="21.59" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="BAT1" library="SparkFun-Connectors" package="BC9VPC_KIT" value="9V" x="24.13" y="32.385" rot="MR90"/>
+<element name="BAT1" library="SparkFun-Connectors" package="BC9VPC_KIT" value="9V" x="24.13" y="32.385" rot="MR90">
+<attribute name="PROD_ID" value="BATT-10855" x="24.13" y="32.385" size="1.778" layer="28" rot="MR90" display="off"/>
+</element>
 <element name="SJ1" library="SparkFun-Passives" package="SJ_2S-TRACE-PTH" value="RUN-N.C." x="2.54" y="27.94" rot="R180"/>
 <element name="SJ2" library="SparkFun-Passives" package="SJ_2S-TRACE-PTH" value="STOP-N.C." x="2.54" y="30.48" rot="R180"/>
 <element name="SJ3" library="SparkFun-Passives" package="SJ_2S-TRACE-PTH" value="CLK-N.C." x="2.54" y="33.02" rot="R180"/>
@@ -7707,20 +7709,20 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="RES-09435" x="69.85" y="58.42" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
 </element>
 <element name="R22" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="1k" x="74.93" y="58.42" rot="R90">
-<attribute name="PROD_ID" value="RES-09435" x="74.93" y="58.42" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
+<attribute name="PROD_ID" value="RES-08380" x="74.93" y="58.42" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
 </element>
 <element name="R9" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="1k" x="72.39" y="58.42" rot="R270">
-<attribute name="PROD_ID" value="RES-09435" x="72.39" y="58.42" size="1.778" layer="27" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-08380" x="72.39" y="58.42" size="1.778" layer="27" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="JP4" library="SparkFun-Connectors" package="1X01NS" value="CV2" x="6.35" y="77.47" rot="R90"/>
 <element name="IC2" library="SparkFun-AnalogIC" package="DIP08-KIT" value="LM358" x="33.02" y="67.31" rot="R90">
 <attribute name="PROD_ID" value="IC-09172" x="33.02" y="67.31" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
 </element>
 <element name="R10" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="1k" x="6.35" y="60.96" rot="R90">
-<attribute name="PROD_ID" value="RES-09435" x="6.35" y="60.96" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
+<attribute name="PROD_ID" value="RES-08380" x="6.35" y="60.96" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
 </element>
 <element name="R26" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="1k" x="8.89" y="60.96" rot="R90">
-<attribute name="PROD_ID" value="RES-09435" x="8.89" y="60.96" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
+<attribute name="PROD_ID" value="RES-08380" x="8.89" y="60.96" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>
 </element>
 <element name="R27" library="SparkFun-Resistors" package="AXIAL-0.3EZ" value="100k" x="40.64" y="67.31" rot="R90">
 <attribute name="PROD_ID" value="RES-10686" x="40.64" y="67.31" size="1.778" layer="27" ratio="15" rot="R90" display="off"/>

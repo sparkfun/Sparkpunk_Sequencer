@@ -1,0 +1,22 @@
+Circuit: * C:\Users\byron.jacquot\Documents\GitHub\Sparkpunk_Sequencer\sims\CVsuming.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar 28 15:37:03 2014
+Total elapsed time: 0.065 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2145
+traniter = 2134
+tranpoints = 1051
+accept = 1051
+rejected = 0
+matrix size = 15
+fillins = 5
+solver = Normal
+Matrix Compiler1: 828 bytes object code size  0.5/0.5/[0.1]
+Matrix Compiler2: off  [0.4]/0.5/0.4
+
+

@@ -1,0 +1,55 @@
+Circuit: * C:\Users\byron.jacquot\Documents\GitHub\Sparkpunk_Sequencer\sims\gatesumming.asc
+
+R6: both pins shorted together -- ignoring.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 0.0001253
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point.
+
+Date: Thu Apr 17 15:26:57 2014
+Total elapsed time: 0.450 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 23433
+traniter = 15733
+tranpoints = 6805
+accept = 5510
+rejected = 1307
+matrix size = 19
+fillins = 6
+solver = Normal
+Matrix Compiler1: 978 bytes object code size  0.8/0.4/[0.3]
+Matrix Compiler2: off  [0.5]/0.7/0.9
+
+

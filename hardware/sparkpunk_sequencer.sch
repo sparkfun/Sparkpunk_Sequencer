@@ -27369,7 +27369,9 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <connect gate="G$1" pin="V-" pad="V-"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="BATT-10855" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -27634,6 +27636,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 </connects>
 <technologies>
 <technology name="">
+<attribute name="PROD_ID" value="IC-11929" constant="no"/>
 <attribute name="VALUE" value="CD4017" constant="no"/>
 </technology>
 </technologies>
@@ -28317,7 +28320,9 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <part name="JP1" library="SparkFun-Connectors" deviceset="M01" device="SMDNS" value="GATE"/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M01" device="SMDNS" value="CV1"/>
 <part name="IC4" library="SparkFun-AnalogIC" deviceset="LM358" device="KIT" value="LM358"/>
-<part name="IC5" library="SparkFun-DigitalIC" deviceset="CD4013" device="" value="CD4013B"/>
+<part name="IC5" library="SparkFun-DigitalIC" deviceset="CD4013" device="" value="CD4013B">
+<attribute name="PROD_ID" value="IC-11930"/>
+</part>
 <part name="D100" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="" value="1N5819">
 <attribute name="PROD_ID" value="DIO-11895"/>
 </part>
@@ -28622,19 +28627,19 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <attribute name="PROD_ID" value="RES-09435"/>
 </part>
 <part name="R22" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="1k">
-<attribute name="PROD_ID" value="RES-09435"/>
+<attribute name="PROD_ID" value="RES-08380"/>
 </part>
 <part name="R9" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="1k">
-<attribute name="PROD_ID" value="RES-09435"/>
+<attribute name="PROD_ID" value="RES-08380"/>
 </part>
 <part name="JP4" library="SparkFun-Connectors" deviceset="M01" device="SMDNS" value="CV2"/>
 <part name="GND13" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="IC2" library="SparkFun-AnalogIC" deviceset="LM358" device="KIT" value="LM358"/>
 <part name="R10" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="1k">
-<attribute name="PROD_ID" value="RES-09435"/>
+<attribute name="PROD_ID" value="RES-08380"/>
 </part>
 <part name="R26" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="1k">
-<attribute name="PROD_ID" value="RES-09435"/>
+<attribute name="PROD_ID" value="RES-08380"/>
 </part>
 <part name="R27" library="SparkFun-Resistors" deviceset="RESISTOR" device="EZ" value="100k">
 <attribute name="PROD_ID" value="RES-10686"/>

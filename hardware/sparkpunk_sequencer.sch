@@ -28832,7 +28832,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <wire x1="30.48" y1="260.35" x2="16.51" y2="260.35" width="0.1524" layer="97"/>
 <text x="78.74" y="5.08" size="1.778" layer="97" font="vector">Place near IC1</text>
 <wire x1="101.6" y1="279.4" x2="101.6" y2="210.82" width="0.1524" layer="97" style="shortdash"/>
-<text x="55.88" y="34.036" size="2.54" layer="97" font="vector">Power and decoupling</text>
+<text x="55.88" y="39.116" size="2.54" layer="97" font="vector">Power and decoupling</text>
 <wire x1="101.6" y1="210.82" x2="101.6" y2="149.86" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="101.6" y1="149.86" x2="101.6" y2="106.68" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="101.6" y1="106.68" x2="101.6" y2="43.18" width="0.1524" layer="97" style="shortdash"/>
@@ -28877,8 +28877,8 @@ IC2G2 is a comparator that trips when the stair-step waveform crosses a threshol
  long or short steps.
 See the SPICE sims for more detailed waveforms.</text>
 <text x="391.16" y="53.34" size="1.778" layer="97" font="vector">S5 selects trip voltage
-Open = VCC x .8
-Closed = VCC x .32</text>
+Open = VCC x .32
+Closed = VCC x .13</text>
 <text x="213.36" y="187.96" size="1.778" layer="97" font="vector">One step is selected at a time by the CD4017.
 This turns on the transistor, lighting the step LED.
 The slide pot and switch place the voltage on the
